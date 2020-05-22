@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantingGuide.Server", "Server\PlantingGuide.Server.csproj", "{AAFACA55-0BB0-467F-8E57-D811EB3B902D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlantingGuide.Server", "Server\PlantingGuide.Server.csproj", "{AAFACA55-0BB0-467F-8E57-D811EB3B902D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantingGuide.Client", "Client\PlantingGuide.Client.csproj", "{A0BF0246-0899-47D0-9914-146070D1A25E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlantingGuide.Client", "Client\PlantingGuide.Client.csproj", "{A0BF0246-0899-47D0-9914-146070D1A25E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantingGuide.Shared", "Shared\PlantingGuide.Shared.csproj", "{77012D6E-6598-485E-9F26-269F7CDCC9B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlantingGuide.Shared", "Shared\PlantingGuide.Shared.csproj", "{77012D6E-6598-485E-9F26-269F7CDCC9B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
